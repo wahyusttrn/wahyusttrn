@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**wahyusttrn/wahyusttrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, people 👋
+```js
+const profile = {
+  Name: 'Wahyu Sattriana',
+  Role: ['Software Developer at heart', 'Content Creator Wannabe'],
+  Study: 'Studying at Full Stact Immersive JavaScript Bootcamp by Hactiv8',
+  Dream: 'Helping people as much as possible and to get rich for sure',
+  Website: 'https://wahyusattriana.com/',
+  ReachOut: ['wahyusattriana@gmail.com', 'instagram.com/wahyusttrn']
+}
+```
